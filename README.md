@@ -1,4 +1,4 @@
-# Router not working in production
+# Router (goto, invalidate etc.) not working in production
 
 Steps to reproduce:
 
